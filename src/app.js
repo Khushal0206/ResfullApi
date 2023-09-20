@@ -19,5 +19,5 @@ app.post("/student",(req,res)=>{
 
 })
 app.listen(port,()=>{
-    console.log(`listing port number is ${port}` )
+    console.log(`port number is ${port}` )
 })
